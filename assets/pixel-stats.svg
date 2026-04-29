@@ -36,7 +36,8 @@
   <text x="176" y="178" class="accent blink">█</text>
 
   <g transform="translate(480 80) scale(.34)">
-    <g class="float pixel">
+    <g class="pixel">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -18; 0 0" dur="2.4s" repeatCount="indefinite"/>
       <rect x="28" y="0" width="56" height="16" fill="#f0f6fc"/>
       <rect x="12" y="16" width="88" height="16" fill="#f0f6fc"/>
       <rect x="0" y="32" width="112" height="64" fill="#24292f"/>

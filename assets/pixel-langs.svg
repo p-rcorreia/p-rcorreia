@@ -6,7 +6,7 @@
     .title { fill: #7ee787; font: 700 20px monospace; }
     .label { fill: #c9d1d9; font: 600 14px monospace; }
     .muted { fill: #8b949e; font: 13px monospace; }
-    .penguin { fill: #7ee787; font: 700 14px monospace; }
+    .penguin { fill: #7ee787; font: 700 28px monospace; }
     .bar-bg { fill: #30363d; }
     .java { fill: #f78166; }
     .spring { fill: #56d364; }
@@ -52,5 +52,5 @@
   <text x="452" y="156" class="muted">modeling</text>
   <text x="452" y="190" class="muted">integrating</text>
 
-  <text x="504" y="52" class="penguin blink">🐧</text>
+  <text x="488" y="58" class="penguin blink">🐧</text>
 </svg>
