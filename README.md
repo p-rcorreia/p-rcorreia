@@ -102,15 +102,16 @@ Organização atual:
 
 ---
 
-## 📊 GitHub em movimento
-
-<div align="center">
-
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-rcorreia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-rcorreia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/pixel-stats.svg" width="100%" alt="Painel pixel art com status do GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/pixel-langs.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+    </td>
+  </tr>
+</table>
 
 ---
 
