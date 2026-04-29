@@ -12,7 +12,7 @@
     .sql { fill: #79c0ff; }
     .vue { fill: #3fb950; }
     .pixel { shape-rendering: crispEdges; }
-    .penguin { animation: pulse 1.5s steps(2, start) infinite; }
+    .whale { animation: pulse 1.5s steps(2, start) infinite; }
     .grow-java { animation: growJava 2.8s ease-in-out infinite; transform-origin: 78px 82px; }
     .grow-spring { animation: growSpring 2.8s ease-in-out infinite; transform-origin: 78px 116px; }
     .grow-sql { animation: growSql 2.8s ease-in-out infinite; transform-origin: 78px 150px; }
@@ -51,17 +51,19 @@
   <text x="452" y="156" class="muted">modeling</text>
   <text x="452" y="190" class="muted">integrating</text>
 
-  <g class="penguin pixel">
-    <rect x="500" y="30" width="16" height="6" fill="#f0f6fc"/>
-    <rect x="494" y="36" width="28" height="6" fill="#f0f6fc"/>
-    <rect x="488" y="42" width="40" height="24" fill="#24292f"/>
-    <rect x="494" y="42" width="28" height="18" fill="#24292f"/>
-    <rect x="500" y="48" width="6" height="6" fill="#0d1117"/>
-    <rect x="516" y="48" width="6" height="6" fill="#0d1117"/>
-    <rect x="506" y="56" width="10" height="6" fill="#d29922"/>
-    <rect x="494" y="66" width="12" height="6" fill="#d29922"/>
-    <rect x="516" y="66" width="12" height="6" fill="#d29922"/>
-    <rect x="482" y="48" width="6" height="14" fill="#39d353"/>
-    <rect x="528" y="48" width="6" height="14" fill="#39d353"/>
+  <g class="whale pixel">
+    <rect x="492" y="28" width="8" height="8" fill="#58a6ff"/>
+    <rect x="502" y="28" width="8" height="8" fill="#58a6ff"/>
+    <rect x="512" y="28" width="8" height="8" fill="#58a6ff"/>
+    <rect x="502" y="18" width="8" height="8" fill="#79c0ff"/>
+    <rect x="512" y="18" width="8" height="8" fill="#79c0ff"/>
+    <rect x="522" y="18" width="8" height="8" fill="#79c0ff"/>
+    <rect x="482" y="38" width="42" height="18" fill="#1f6feb"/>
+    <rect x="524" y="42" width="10" height="10" fill="#1f6feb"/>
+    <rect x="534" y="36" width="8" height="8" fill="#58a6ff"/>
+    <rect x="534" y="50" width="8" height="8" fill="#58a6ff"/>
+    <rect x="490" y="44" width="6" height="6" fill="#0d1117"/>
+    <rect x="496" y="58" width="26" height="6" fill="#79c0ff"/>
+    <rect x="476" y="48" width="8" height="8" fill="#39d353"/>
   </g>
 </svg>
