@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/pixel-stats.svg" width="100%" alt="Painel pixel art com status do GitHub" />
+      <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do GitHub" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/pixel-langs.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+      <img src="./assets/pixel-langs-v2.svg" width="100%" alt="Painel pixel art com stack de estudos" />
     </td>
   </tr>
 </table>
