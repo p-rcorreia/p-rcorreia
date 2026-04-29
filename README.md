@@ -1,3 +1,16 @@
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/pixel-stats.svg" width="100%" alt="Painel pixel art com status do GitHub" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/pixel-langs.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+    </td>
+  </tr>
+</table>
+
+---
+
 # Olá, eu sou o Paulo Correia 👋
 
 **Software Engineer em formação | Backend Java | Arquitetura e Boas Práticas**
@@ -99,19 +112,6 @@ Organização atual:
 - SOLID
 - UML e Larman
 - Design Patterns
-
----
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/pixel-stats.svg" width="100%" alt="Painel pixel art com status do GitHub" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/pixel-langs.svg" width="100%" alt="Painel pixel art com stack de estudos" />
-    </td>
-  </tr>
-</table>
 
 ---
 
