@@ -12,12 +12,10 @@
     .sql { fill: #79c0ff; }
     .vue { fill: #3fb950; }
     .pixel { shape-rendering: crispEdges; }
-    .whale { animation: pulse 1.5s steps(2, start) infinite; }
     .grow-java { animation: growJava 2.8s ease-in-out infinite; transform-origin: 78px 82px; }
     .grow-spring { animation: growSpring 2.8s ease-in-out infinite; transform-origin: 78px 116px; }
     .grow-sql { animation: growSql 2.8s ease-in-out infinite; transform-origin: 78px 150px; }
     .grow-vue { animation: growVue 2.8s ease-in-out infinite; transform-origin: 78px 184px; }
-    @keyframes pulse { 50% { opacity: .55; } }
     @keyframes growJava { 0%,100% { transform: scaleX(.55); } 50% { transform: scaleX(1); } }
     @keyframes growSpring { 0%,100% { transform: scaleX(.45); } 50% { transform: scaleX(.82); } }
     @keyframes growSql { 0%,100% { transform: scaleX(.35); } 50% { transform: scaleX(.68); } }
@@ -51,19 +49,4 @@
   <text x="452" y="156" class="muted">modeling</text>
   <text x="452" y="190" class="muted">integrating</text>
 
-  <g class="whale pixel">
-    <rect x="492" y="28" width="8" height="8" fill="#58a6ff"/>
-    <rect x="502" y="28" width="8" height="8" fill="#58a6ff"/>
-    <rect x="512" y="28" width="8" height="8" fill="#58a6ff"/>
-    <rect x="502" y="18" width="8" height="8" fill="#79c0ff"/>
-    <rect x="512" y="18" width="8" height="8" fill="#79c0ff"/>
-    <rect x="522" y="18" width="8" height="8" fill="#79c0ff"/>
-    <rect x="482" y="38" width="42" height="18" fill="#1f6feb"/>
-    <rect x="524" y="42" width="10" height="10" fill="#1f6feb"/>
-    <rect x="534" y="36" width="8" height="8" fill="#58a6ff"/>
-    <rect x="534" y="50" width="8" height="8" fill="#58a6ff"/>
-    <rect x="490" y="44" width="6" height="6" fill="#0d1117"/>
-    <rect x="496" y="58" width="26" height="6" fill="#79c0ff"/>
-    <rect x="476" y="48" width="8" height="8" fill="#39d353"/>
-  </g>
 </svg>
