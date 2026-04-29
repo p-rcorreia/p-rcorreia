@@ -4,7 +4,7 @@
       <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do GitHub" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/pixel-langs-v2.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack de estudos" />
     </td>
   </tr>
 </table>
