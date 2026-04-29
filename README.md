@@ -102,6 +102,18 @@ Organização atual:
 
 ---
 
+## 📊 GitHub em movimento
+
+<div align="center">
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-rcorreia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-rcorreia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+</div>
+
+---
+
 ## 🎓 Formação e certificações
 
 **Bacharelado em Ciência da Computação**  
