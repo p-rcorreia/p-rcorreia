@@ -25,15 +25,17 @@
   <rect class="panel pixel" x="18" y="18" width="524" height="194" rx="8"/>
   <rect class="scan" x="18" y="18" width="524" height="22" fill="#58a6ff"/>
 
-  <text x="34" y="52" class="title">terminal@github:~$ status</text>
-  <text x="34" y="86" class="label">commits</text>
-  <text x="156" y="86" class="accent">loading study timeline</text>
-  <text x="34" y="116" class="label">repos</text>
-  <text x="156" y="116" class="accent">building foundations</text>
-  <text x="34" y="146" class="label">focus</text>
-  <text x="156" y="146" class="accent">java · spring · design</text>
-  <text x="34" y="178" class="muted">stats warming up</text>
-  <text x="176" y="178" class="accent blink">█</text>
+  <text x="34" y="52" class="title">terminal@studies:~$ progress</text>
+  <text x="34" y="86" class="label">patterns</text>
+  <text x="156" y="86" class="accent">29 commits</text>
+  <text x="34" y="116" class="label">criacionais</text>
+  <text x="156" y="116" class="accent">8 commits</text>
+  <text x="34" y="146" class="label">estruturais</text>
+  <text x="156" y="146" class="accent">8 commits</text>
+  <text x="34" y="176" class="label">comportam.</text>
+  <text x="156" y="176" class="accent">12 commits</text>
+  <text x="34" y="200" class="muted">latest: Factory Method solved</text>
+  <text x="246" y="200" class="accent blink">█</text>
 
   <g class="float pixel">
     <rect x="432" y="92" width="18" height="6" fill="#f0f6fc"/>
