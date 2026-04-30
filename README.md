@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=p-rcorreia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&card_width=420" width="100%" alt="Estatísticas dinâmicas do GitHub" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-rcorreia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=420" width="100%" alt="Linguagens mais usadas no GitHub" />
+      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack de estudos" />
     </td>
   </tr>
 </table>

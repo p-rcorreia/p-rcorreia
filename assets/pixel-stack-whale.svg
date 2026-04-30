@@ -12,11 +12,9 @@
     .sql { fill: #79c0ff; }
     .vue { fill: #3fb950; }
     .pixel { shape-rendering: crispEdges; }
-    .grow-java { animation: growJava 2.8s ease-in-out infinite; transform-origin: 78px 82px; }
     .grow-spring { animation: growSpring 2.8s ease-in-out infinite; transform-origin: 78px 116px; }
     .grow-sql { animation: growSql 2.8s ease-in-out infinite; transform-origin: 78px 150px; }
     .grow-vue { animation: growVue 2.8s ease-in-out infinite; transform-origin: 78px 184px; }
-    @keyframes growJava { 0%,100% { transform: scaleX(.55); } 50% { transform: scaleX(1); } }
     @keyframes growSpring { 0%,100% { transform: scaleX(.45); } 50% { transform: scaleX(.82); } }
     @keyframes growSql { 0%,100% { transform: scaleX(.35); } 50% { transform: scaleX(.68); } }
     @keyframes growVue { 0%,100% { transform: scaleX(.25); } 50% { transform: scaleX(.52); } }
@@ -30,7 +28,7 @@
 
   <text x="34" y="88" class="label">Java</text>
   <rect x="78" y="76" width="360" height="16" class="bar-bg pixel"/>
-  <rect x="78" y="76" width="360" height="16" class="java pixel grow-java"/>
+  <rect x="78" y="76" width="360" height="16" class="java pixel"/>
 
   <text x="34" y="122" class="label">Spring</text>
   <rect x="104" y="110" width="334" height="16" class="bar-bg pixel"/>
@@ -44,7 +42,7 @@
   <rect x="78" y="178" width="360" height="16" class="bar-bg pixel"/>
   <rect x="78" y="178" width="360" height="16" class="vue pixel grow-vue"/>
 
-  <text x="452" y="88" class="muted">learning</text>
+  <text x="452" y="88" class="muted">100%</text>
   <text x="452" y="122" class="muted">building</text>
   <text x="452" y="156" class="muted">modeling</text>
   <text x="452" y="190" class="muted">integrating</text>
