@@ -4,7 +4,7 @@
       <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do GitHub" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-rcorreia&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8&card_width=420" width="100%" alt="Linguagens mais usadas no GitHub" />
     </td>
   </tr>
 </table>
