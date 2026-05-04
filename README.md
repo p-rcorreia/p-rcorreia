@@ -145,13 +145,6 @@ Cruzeiro do Sul Virtual | 2022 - 2026
   </tr>
 </table>
 
-Certificações:
-
-- AWS Certified Cloud Practitioner
-- Professional Google Workspace Administrator
-- Google Cloud Digital Leader
-- Generative AI Leader Certification
-
 ---
 
 ## 🌱 Como eu enxergo minha evolução
