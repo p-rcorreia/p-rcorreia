@@ -120,6 +120,31 @@ Organização atual:
 **Bacharelado em Ciência da Computação**  
 Cruzeiro do Sul Virtual | 2022 - 2026
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="92" alt="AWS Certified Cloud Practitioner" />
+      <br />
+      <strong>AWS Certified<br />Cloud Practitioner</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/certifications/professional-google-workspace-administrator.png" width="92" alt="Professional Google Workspace Administrator" />
+      <br />
+      <strong>Professional Google<br />Workspace Administrator</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/certifications/cloud-digital-leader-certification.png" width="92" alt="Google Cloud Digital Leader" />
+      <br />
+      <strong>Google Cloud<br />Digital Leader</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/certifications/generative-ai-leader-certification.png" width="92" alt="Generative AI Leader Certification" />
+      <br />
+      <strong>Generative AI<br />Leader</strong>
+    </td>
+  </tr>
+</table>
+
 Certificações:
 
 - AWS Certified Cloud Practitioner
