@@ -122,22 +122,22 @@ Cruzeiro do Sul Virtual | 2022 - 2026
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="24%">
       <img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="92" alt="AWS Certified Cloud Practitioner" />
       <br />
       <strong>AWS Certified<br />Cloud Practitioner</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="30%">
       <img src="./assets/certifications/professional-google-workspace-administrator.png" width="92" alt="Professional Google Workspace Administrator" />
       <br />
-      <strong>Professional Google<br />Workspace Administrator</strong>
+      <strong>Professional Google Workspace<br />Administrator</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="23%">
       <img src="./assets/certifications/cloud-digital-leader-certification.png" width="92" alt="Google Cloud Digital Leader" />
       <br />
       <strong>Google Cloud<br />Digital Leader</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="23%">
       <img src="./assets/certifications/generative-ai-leader-certification.png" width="92" alt="Generative AI Leader Certification" />
       <br />
       <strong>Generative AI<br />Leader</strong>
