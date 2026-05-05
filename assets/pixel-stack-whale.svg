@@ -3,48 +3,68 @@
     .bg { fill: #0d1117; }
     .panel { fill: #161b22; stroke: #39d353; stroke-width: 3; }
     .grid { stroke: #263246; stroke-width: 1; opacity: .65; }
-    .title { fill: #7ee787; font: 700 20px monospace; }
-    .label { fill: #c9d1d9; font: 600 14px monospace; }
-    .muted { fill: #8b949e; font: 13px monospace; }
+    .title { fill: #7ee787; font: 700 19px monospace; }
+    .label { fill: #c9d1d9; font: 600 13px monospace; }
+    .muted { fill: #8b949e; font: 12px monospace; }
+    .percent { fill: #f0f6fc; font: 700 12px monospace; }
     .bar-bg { fill: #30363d; }
     .java { fill: #f78166; }
     .spring { fill: #56d364; }
     .sql { fill: #79c0ff; }
+    .docker { fill: #58a6ff; }
     .vue { fill: #3fb950; }
+    .security { fill: #ff7b72; }
+    .testing { fill: #d29922; }
+    .arch { fill: #a371f7; }
     .pixel { shape-rendering: crispEdges; }
-    .grow-spring { animation: growSpring 2.8s ease-in-out infinite; transform-origin: 78px 116px; }
-    .grow-sql { animation: growSql 2.8s ease-in-out infinite; transform-origin: 78px 150px; }
-    .grow-vue { animation: growVue 2.8s ease-in-out infinite; transform-origin: 78px 184px; }
-    @keyframes growSpring { 0%,100% { transform: scaleX(.45); } 50% { transform: scaleX(.82); } }
-    @keyframes growSql { 0%,100% { transform: scaleX(.35); } 50% { transform: scaleX(.68); } }
-    @keyframes growVue { 0%,100% { transform: scaleX(.25); } 50% { transform: scaleX(.52); } }
+    .scan { animation: scan 3.6s linear infinite; opacity: .22; }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; }
+    @keyframes scan { from { transform: translateY(-230px); } to { transform: translateY(230px); } }
+    @keyframes pulse { 0%,100% { opacity: .7; } 50% { opacity: 1; } }
   </style>
 
   <rect class="bg" width="560" height="230"/>
   <path class="grid" d="M20 40H540M20 80H540M20 120H540M20 160H540M20 200H540M80 20V210M160 20V210M240 20V210M320 20V210M400 20V210M480 20V210"/>
   <rect class="panel pixel" x="18" y="18" width="524" height="194" rx="8"/>
+  <rect class="scan" x="18" y="18" width="524" height="22" fill="#39d353"/>
 
-  <text x="34" y="52" class="title">stack.exe --preview</text>
+  <text x="34" y="48" class="title">stack.json --roadmap-2026</text>
 
-  <text x="34" y="88" class="label">Java</text>
-  <rect x="78" y="76" width="360" height="16" class="bar-bg pixel"/>
-  <rect x="78" y="76" width="360" height="16" class="java pixel"/>
+  <text x="34" y="76" class="label">Java</text>
+  <rect x="138" y="64" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="64" width="264" height="12" class="java pixel"/>
+  <text x="452" y="75" class="percent">88%</text>
 
-  <text x="34" y="122" class="label">Spring</text>
-  <rect x="104" y="110" width="334" height="16" class="bar-bg pixel"/>
-  <rect x="104" y="110" width="334" height="16" class="spring pixel grow-spring"/>
+  <text x="34" y="96" class="label">Spring</text>
+  <rect x="138" y="84" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="84" width="234" height="12" class="spring pixel"/>
+  <text x="452" y="95" class="percent">78%</text>
 
-  <text x="34" y="156" class="label">SQL</text>
-  <rect x="78" y="144" width="360" height="16" class="bar-bg pixel"/>
-  <rect x="78" y="144" width="360" height="16" class="sql pixel grow-sql"/>
+  <text x="34" y="116" class="label">SQL/JPA</text>
+  <rect x="138" y="104" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="104" width="210" height="12" class="sql pixel"/>
+  <text x="452" y="115" class="percent">70%</text>
 
-  <text x="34" y="190" class="label">Vue</text>
-  <rect x="78" y="178" width="360" height="16" class="bar-bg pixel"/>
-  <rect x="78" y="178" width="360" height="16" class="vue pixel grow-vue"/>
+  <text x="34" y="136" class="label">Arquitetura</text>
+  <rect x="138" y="124" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="124" width="216" height="12" class="arch pixel"/>
+  <text x="452" y="135" class="percent">72%</text>
 
-  <text x="452" y="88" class="muted">100%</text>
-  <text x="452" y="122" class="muted">building</text>
-  <text x="452" y="156" class="muted">modeling</text>
-  <text x="452" y="190" class="muted">integrating</text>
+  <text x="34" y="156" class="label">Vue/TS</text>
+  <rect x="138" y="144" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="144" width="192" height="12" class="vue pixel"/>
+  <text x="452" y="155" class="percent">64%</text>
 
+  <text x="34" y="176" class="label">Docker</text>
+  <rect x="138" y="164" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="164" width="174" height="12" class="docker pixel"/>
+  <text x="452" y="175" class="percent">58%</text>
+
+  <text x="34" y="196" class="label">Testes/Sec</text>
+  <rect x="138" y="184" width="300" height="12" class="bar-bg pixel"/>
+  <rect x="138" y="184" width="165" height="12" class="testing pixel"/>
+  <rect x="303" y="184" width="156" height="12" class="security pixel pulse"/>
+  <text x="452" y="195" class="percent">55/52%</text>
+
+  <text x="34" y="218" class="muted">Vue + Vite + TS + Tailwind + Docker + Java Backend studies</text>
 </svg>

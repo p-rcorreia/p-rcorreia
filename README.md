@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com trilhas de estudo no GitHub" />
+      <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do roadmap Java Backend" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack de estudos" />
+      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack Java Backend, Spring, SQL, Vue, Docker, testes e segurança" />
     </td>
   </tr>
 </table>
@@ -13,24 +13,29 @@
 
 # Olá, eu sou o Paulo Correia 👋
 
-**Software Engineer em formação | Backend Java | Arquitetura e Boas Práticas**
+**Software Engineer em formação | Java Backend | Spring Boot | Arquitetura e Boas Práticas**
 
 Sou um profissional de tecnologia em evolução para Engenharia de Software, com atuação prática em ambientes corporativos, integrações, automações e desenvolvimento de soluções internas.
 
-Meu foco hoje está em desenvolvimento **back-end com Java e ecossistema Spring**, construção de APIs, persistência de dados, consumo de serviços externos e organização de aplicações em camadas.
+Meu foco atual está em desenvolvimento **backend com Java e ecossistema Spring**, construção de APIs, persistência de dados, segurança, testes, Docker, arquitetura e evolução de aplicações com código limpo.
 
-Mais do que apenas escrever código, tenho buscado entender **decisões de projeto**: orientação a objetos, princípios SOLID, separação de responsabilidades, Design Patterns e fundamentos que ajudam a construir software mais legível, flexível e sustentável.
+Mais do que apenas escrever código, tenho buscado entender **decisões de projeto**: orientação a objetos, SOLID, Design Patterns, UML, Clean Code, TDD, Specification Driven Design, separação de responsabilidades e fundamentos que ajudam a construir software mais legível, testável e sustentável.
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- Java e Spring Boot
-- APIs REST e integração entre sistemas
-- JPA, Hibernate, SQL e modelagem relacional
-- Clean Code, SOLID e Design Patterns
-- UML, modelagem de domínio e análise orientada a objetos
-- Desenvolvimento assistido por IA e Spec-Driven Development
+- Java moderno: Java 17+, Java 21/25 LTS, JVM, compilação, execução, concorrência e virtual threads
+- Spring Boot, Spring Web MVC, Spring Data JPA, Hibernate, Bean Validation e Actuator
+- APIs REST/RESTful, status HTTP, ResponseEntity, tratamento global de erros e Problem Details
+- Padrões de comunicação: REST, SOAP, RPC, gRPC, GraphQL, Webhooks e mensageria
+- Banco de dados, SQL, modelagem relacional, transações, índices, migrations, PostgreSQL e Redis
+- Segurança de APIs: OAuth2, OpenID Connect, Bearer Token, JWT, PKCE, Keycloak, RBAC/ABAC e OWASP API Top 10
+- Testes com JUnit 5, Mockito, Spring Boot Test, Testcontainers, testes de contrato, testes de arquitetura e TDD
+- Arquitetura em camadas, Clean Architecture, arquitetura hexagonal, DDD, monólito modular e microserviços
+- SOLID, Clean Code, UML, Design Patterns GoF e extensibilidade sem switch gigante
+- Docker, CI/CD, observabilidade, cloud, Kubernetes e produção
+- Desenvolvimento assistido por IA e Specification Driven Design
 
 ---
 
@@ -44,7 +49,7 @@ Em vez de apenas decorar conceitos, tento seguir uma linha simples:
 problema -> percepção -> solução -> aplicabilidade
 ```
 
-Essa abordagem aparece nos meus repositórios de estudo, onde organizo anotações, exemplos e decisões técnicas para acompanhar minha evolução.
+Essa abordagem aparece nos meus repositórios de estudo, onde organizo anotações, exemplos, decisões técnicas e pequenos projetos para acompanhar minha evolução.
 
 ---
 
@@ -53,20 +58,35 @@ Essa abordagem aparece nos meus repositórios de estudo, onde organizo anotaçõ
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### Banco de dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
-### Frontend e integrações
+### Frontend, documentação e integração
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+### DevOps e produção
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Engenharia de software
 
@@ -74,6 +94,8 @@ Essa abordagem aparece nos meus repositórios de estudo, onde organizo anotaçõ
 ![SOLID](https://img.shields.io/badge/SOLID-2563EB?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7C3AED?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-0F766E?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-B91C1C?style=for-the-badge)
+![Spec Driven](https://img.shields.io/badge/Spec--Driven%20Design-4F46E5?style=for-the-badge)
 
 ---
 
@@ -92,11 +114,31 @@ Desde agosto de 2024
 
 ## 📌 Projeto em destaque
 
-### Sistema de integração e gestão de dados
+### [Java Backend Developer Roadmap 2026](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026)
 
-Projeto com foco em backend usando **Java + Spring**, APIs REST, persistência com **JPA/Hibernate**, banco relacional **MySQL**, versionamento de banco com **Flyway** e integração com APIs externas.
+Aplicação frontend em **Vue 3 + Vite + TypeScript + Tailwind CSS** para acompanhar minha evolução nos estudos de backend Java.
 
-Também inclui frontend em **Vue.js** consumindo APIs próprias.
+O projeto transforma um roadmap de estudos em um painel interativo com:
+
+- 11 trilhas de estudo
+- mais de 120 tópicos de evolução
+- os 23 Design Patterns GoF organizados por categoria
+- progresso geral e por categoria
+- checklist de subtópicos
+- favoritos, filtros e busca
+- anotações pessoais por tópico
+- modo claro/escuro
+- persistência em `localStorage`
+- backup versionável em `data/progress.json`
+- execução com Docker em `http://localhost:2026`
+
+Stack utilizada:
+
+```txt
+Vue 3 -> Vite -> TypeScript -> Tailwind CSS -> Docker -> Node.js local server
+```
+
+Esse projeto também funciona como meu painel vivo de estudos para Java, Spring, arquitetura, testes, segurança, DevOps e carreira.
 
 ---
 
@@ -112,6 +154,24 @@ Organização atual:
 - SOLID
 - UML e Larman
 - Design Patterns
+
+### [java-backend-developer-roadmap-2026](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026)
+
+Painel interativo para acompanhar a evolução nos estudos de Java Backend em 2026.
+
+Principais trilhas:
+
+- Fundamentos Java
+- Orientação a Objetos e Modelagem
+- Banco de Dados
+- Spring Boot
+- Backend Profissional
+- Testes
+- Arquitetura
+- Design Patterns
+- Segurança
+- DevOps e Produção
+- Carreira e Mentalidade
 
 ---
 
