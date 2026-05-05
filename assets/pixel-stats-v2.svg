@@ -27,14 +27,14 @@
 
   <text x="34" y="52" class="title">terminal@studies:~$ progress</text>
   <text x="34" y="86" class="label">patterns</text>
-  <text x="156" y="86" class="accent">38 commits</text>
+  <text x="156" y="86" class="accent">41 commits</text>
   <text x="34" y="116" class="label">criacionais</text>
-  <text x="156" y="116" class="accent">17 commits</text>
+  <text x="156" y="116" class="accent">20 commits</text>
   <text x="34" y="146" class="label">estruturais</text>
   <text x="156" y="146" class="accent">8 commits</text>
   <text x="34" y="176" class="label">comportam.</text>
   <text x="156" y="176" class="accent">12 commits</text>
-  <text x="34" y="200" class="muted">latest: Prototype solved</text>
+  <text x="34" y="200" class="muted">latest: Singleton solved</text>
   <text x="228" y="200" class="accent blink">█</text>
 
   <g class="float pixel">
