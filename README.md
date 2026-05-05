@@ -1,13 +1,6 @@
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/pixel-stats-v2.svg" width="100%" alt="Painel pixel art com status do roadmap Java Backend" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/pixel-stack-whale.svg" width="100%" alt="Painel pixel art com stack Java Backend, Spring, SQL, Vue, Docker, testes e segurança" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/profile-roadmap-hero.svg" width="100%" alt="Hero animado do Roadmap Java Backend 2026 com trilhas, tópicos, patterns e stack principal" />
+</p>
 
 ---
 
