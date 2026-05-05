@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-roadmap-hero.svg" width="100%" alt="Hero animado do Roadmap Java Backend 2026 com trilhas, tópicos, patterns e stack principal" />
+  <img src="./assets/profile-tech-panel.svg" width="100%" alt="Painel visual com foco em Java Backend, Engenharia de Software, arquitetura, dados, testes, segurança e Docker" />
 </p>
 
 ---

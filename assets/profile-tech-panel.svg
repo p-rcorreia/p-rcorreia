@@ -1,0 +1,91 @@
+<svg width="1120" height="300" viewBox="0 0 1120 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Paulo Correia backend profile technology panel</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE"/>
+      <stop offset="0.36" stop-color="#ECFDF5"/>
+      <stop offset="0.7" stop-color="#FEF3C7"/>
+      <stop offset="1" stop-color="#FCE7F3"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0F172A" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .title { font: 900 38px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; letter-spacing: 0; }
+      .subtitle { font: 700 17px Inter, Segoe UI, Arial, sans-serif; fill: #334155; letter-spacing: 0; }
+      .label { font: 800 13px Inter, Segoe UI, Arial, sans-serif; fill: #64748b; letter-spacing: 0; }
+      .metric { font: 900 34px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; letter-spacing: 0; }
+      .chip { font: 900 13px Inter, Segoe UI, Arial, sans-serif; fill: #fff; letter-spacing: 0; }
+      .bar-label { font: 900 14px Inter, Segoe UI, Arial, sans-serif; fill: #0f172a; letter-spacing: 0; }
+      .bar-value { font: 900 13px Inter, Segoe UI, Arial, sans-serif; fill: #334155; letter-spacing: 0; }
+      .float-a { animation: floatA 4s ease-in-out infinite; }
+      .float-b { animation: floatB 5s ease-in-out infinite; }
+      .shine { animation: shine 3.8s ease-in-out infinite; }
+      @keyframes floatA { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+      @keyframes floatB { 0%,100% { transform: translateY(0); } 50% { transform: translateY(7px); } }
+      @keyframes shine { 0%,100% { opacity: .35; } 50% { opacity: .8; } }
+    </style>
+  </defs>
+
+  <rect width="1120" height="300" rx="30" fill="url(#bg)"/>
+
+  <circle class="float-a" cx="88" cy="68" r="17" fill="#FBBF24" opacity=".55"/>
+  <circle class="float-b" cx="1032" cy="70" r="11" fill="#60A5FA" opacity=".6"/>
+  <circle class="float-a" cx="992" cy="238" r="9" fill="#34D399" opacity=".55"/>
+  <circle class="float-b" cx="610" cy="58" r="8" fill="#A78BFA" opacity=".55"/>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="34" width="1036" height="232" rx="26" fill="#FFFFFF" fill-opacity=".82" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+
+  <g class="shine">
+    <path d="M66 242 C166 170 244 196 338 118 C430 42 540 74 622 134 C720 206 820 176 928 78 C974 36 1028 42 1056 70" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+  </g>
+
+  <text x="80" y="88" class="label">perfil em evolução</text>
+  <text x="80" y="132" class="title">Java Backend + Engenharia de Software</text>
+  <text x="82" y="164" class="subtitle">Construindo base sólida em APIs, arquitetura, dados, testes, segurança e produção.</text>
+
+  <g transform="translate(82 194)">
+    <rect x="0" y="0" width="136" height="54" rx="15" fill="#EFF6FF" stroke="#BFDBFE"/>
+    <text x="18" y="30" class="metric">Java</text>
+    <text x="18" y="46" class="label">linguagem base</text>
+  </g>
+  <g transform="translate(234 194)">
+    <rect x="0" y="0" width="144" height="54" rx="15" fill="#ECFDF5" stroke="#A7F3D0"/>
+    <text x="18" y="30" class="metric">Spring</text>
+    <text x="18" y="46" class="label">ecossistema</text>
+  </g>
+  <g transform="translate(394 194)">
+    <rect x="0" y="0" width="154" height="54" rx="15" fill="#FFF7ED" stroke="#FED7AA"/>
+    <text x="18" y="30" class="metric">SOLID</text>
+    <text x="18" y="46" class="label">design de código</text>
+  </g>
+
+  <g transform="translate(632 72)">
+    <rect x="0" y="0" width="388" height="152" rx="22" fill="#0F172A" opacity=".92"/>
+    <text x="24" y="34" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900">stack em foco</text>
+
+    <text x="24" y="66" class="bar-label" fill="#fff">Backend</text>
+    <rect x="112" y="54" width="220" height="13" rx="7" fill="#334155"/>
+    <rect x="112" y="54" width="198" height="13" rx="7" fill="#F97316"/>
+    <text x="344" y="66" class="bar-value" fill="#CBD5E1">90%</text>
+
+    <text x="24" y="94" class="bar-label" fill="#fff">Arquitetura</text>
+    <rect x="112" y="82" width="220" height="13" rx="7" fill="#334155"/>
+    <rect x="112" y="82" width="176" height="13" rx="7" fill="#8B5CF6"/>
+    <text x="344" y="94" class="bar-value" fill="#CBD5E1">80%</text>
+
+    <text x="24" y="122" class="bar-label" fill="#fff">Dados</text>
+    <rect x="112" y="110" width="220" height="13" rx="7" fill="#334155"/>
+    <rect x="112" y="110" width="154" height="13" rx="7" fill="#38BDF8"/>
+    <text x="344" y="122" class="bar-value" fill="#CBD5E1">70%</text>
+
+    <g transform="translate(24 132)">
+      <rect x="0" y="0" width="62" height="24" rx="12" fill="#22C55E"/><text x="14" y="17" class="chip">Tests</text>
+      <rect x="72" y="0" width="78" height="24" rx="12" fill="#DB2777"/><text x="86" y="17" class="chip">Security</text>
+      <rect x="160" y="0" width="72" height="24" rx="12" fill="#2563EB"/><text x="174" y="17" class="chip">Docker</text>
+      <rect x="242" y="0" width="50" height="24" rx="12" fill="#0F766E"/><text x="256" y="17" class="chip">Vue</text>
+    </g>
+  </g>
+</svg>
