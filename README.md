@@ -22,18 +22,23 @@ Foi assim que fui cada vez mais fundo em **Cloud, Linux, redes, identidade, DNS,
 
 ## O que já coloquei de pé
 
-Em vez de uma lista infinita de tecnologias, alguns exemplos concretos do que venho experimentando:
+<sub>01 / EXPERIÊNCIA NA PRÁTICA</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top"><b>☁️ Publicação na AWS</b><br/><sub>Site estático com S3 + CloudFront, certificado ACM, DNS no Route 53 e domínio próprio — incluindo raiz e www.</sub></td>
-<td width="50%" valign="top"><b>⚙️ Infraestrutura e deploy</b><br/><sub>Práticas com Linux, servidores web, HTTPS, GitHub Actions e automação de publicação, testando o caminho do código até a entrega.</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>🧠 IA aplicada</b><br/><sub>Experiência na construção, avaliação e melhoria de agentes corporativos de IA generativa, analisando respostas, instruções e integrações. Sem divulgar projetos de clientes.</sub></td>
-<td valign="top"><b>💻 Software e ferramentas</b><br/><sub>Projetos com Java, APIs, banco de dados e uma aplicação em Vue/TypeScript + Docker para acompanhar meus estudos.</sub></td>
-</tr>
-</table>
+### ☁️ Cloud, DNS e distribuição
+
+Publiquei meu site com **Amazon S3 + CloudFront**, configurei certificado TLS no **ACM** e DNS no **Route 53**, colocando o domínio principal e o `www` para funcionar. O que parecia só “colocar uma página no ar” virou um laboratório sobre CDN, HTTPS e resolução de nomes.
+
+### ⚙️ Servidores, Linux e automação
+
+Venho explorando **Linux, servidores web, HTTPS e pipelines com GitHub Actions**. Gosto de seguir uma implantação de ponta a ponta: entender a configuração, testar, encontrar o erro e descobrir como corrigir.
+
+### 🧠 Inteligência artificial aplicada
+
+Trabalhei com **agentes corporativos de IA generativa**, participando da construção, avaliação e melhoria de respostas, instruções e integrações. São problemas reais, com aprendizados reais — sem expor informações de clientes.
+
+### 💻 Software que também faz parte da história
+
+Passei por **Java, Spring Boot, APIs e bancos de dados** e construí uma aplicação em **Vue + TypeScript + Docker** para acompanhar meus estudos. Essa base me ajuda a investigar a infraestrutura pelo lado de quem desenvolve.
 
 ## O que estou investigando
 
@@ -55,12 +60,19 @@ java/backend -> cloud/infra -> networks -> cybersecurity
 
 ## Projetos e repositórios
 
-| Projeto | O que há de concreto |
-| --- | --- |
-| **Cloud Levels** | Experimentos de infraestrutura em Cloud; parte do código e da documentação permanece privada. |
-| [Java Backend Roadmap App](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026) | Ferramenta construída com Vue, TypeScript e Docker para organizar os estudos — não significa que todas as trilhas foram concluídas. |
-| [Fundamentos Java](https://github.com/p-rcorreia/fundamentos-java) | Exercícios, pequenos projetos e registros de programação. |
-| [Software Design Studies](https://github.com/p-rcorreia/software-design-studies) | Notas e estruturas de estudos anteriores em arquitetura de software, sem prometer conteúdo concluído. |
+<sub>02 / CÓDIGO, EXPERIMENTOS E ANOTAÇÕES</sub>
+
+**Cloud Levels** · *laboratórios pessoais*  
+Experimentação de infraestrutura em Cloud. Parte do código e das evidências ainda está em repositórios privados.
+
+**[Java Backend Roadmap App](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026)** · *aplicação funcional*  
+Um painel que construí com Vue, TypeScript e Docker para organizar estudos. O software existe; isso não significa que todos os tópicos do roadmap foram concluídos.
+
+**[Fundamentos Java](https://github.com/p-rcorreia/fundamentos-java)** · *arquivo de aprendizado*  
+Pequenos projetos, exercícios e registros que mostram etapas da minha base em programação.
+
+**[Software Design Studies](https://github.com/p-rcorreia/software-design-studies)** · *estudos em andamento*  
+Notas e estrutura de estudos sobre design e arquitetura de software, sem fingir que o conteúdo já está completo.
 
 ## Experiência profissional
 
