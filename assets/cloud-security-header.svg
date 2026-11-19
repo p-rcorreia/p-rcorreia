@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="t d">
+<title id="t">Paulo Correia — Cloud, Infrastructure &amp; Security</title>
+<desc id="d">Dark editorial tech banner with a network topology, cyan and orange highlights</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0a1423"/><stop offset="1" stop-color="#101c2e"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#27d3c2"/><stop offset="1" stop-color="#f2a35c"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#60819b" opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="350" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="350" rx="18" fill="url(#dots)"/>
+<path d="M48 58 H1152" stroke="#274257" stroke-width="1"/>
+<circle cx="65" cy="33" r="5" fill="#27d3c2"/><circle cx="84" cy="33" r="5" fill="#f2a35c"/><circle cx="103" cy="33" r="5" fill="#42617b"/>
+<text x="126" y="38" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#89aabc">P-RCORREIA / PROFILE</text>
+<text x="65" y="119" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#27d3c2">CLOUD · INFRASTRUCTURE · SECURITY</text>
+<text x="63" y="191" font-family="DejaVu Sans, Arial, sans-serif" font-size="55" font-weight="bold" fill="#f2f6fa">Paulo Correia</text>
+<text x="65" y="229" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" fill="#a7c1d1">From the network layer to cloud architecture.</text>
+<path d="M65 265 H562" stroke="#274257"/>
+<text x="65" y="294" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#d5e5ec">LINUX</text><text x="152" y="294" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#d5e5ec">NETWORKING</text><text x="308" y="294" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#d5e5ec">AUTOMATION</text><text x="465" y="294" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#d5e5ec">IAM</text>
+<g fill="none" stroke="#31536b" stroke-width="2">
+<path d="M745 100 L860 70 L1010 111 L1100 191 L975 260 L826 238 L745 100"/>
+<path d="M860 70 L826 238 M1010 111 L975 260 M745 100 L1010 111 M826 238 L1100 191 M860 70 L1100 191 M745 100 L975 260"/>
+</g>
+<g fill="#11293a" stroke="#27d3c2" stroke-width="3"><circle cx="745" cy="100" r="13"/><circle cx="975" cy="260" r="13"/><circle cx="860" cy="70" r="10"/></g>
+<g fill="#11293a" stroke="#f2a35c" stroke-width="3"><circle cx="1010" cy="111" r="13"/><circle cx="1100" cy="191" r="11"/></g>
+<g fill="#152f43" stroke="#7cb4c3" stroke-width="3"><circle cx="826" cy="238" r="16"/></g>
+<rect x="816" y="128" width="180" height="58" rx="9" fill="#0c1b2b" stroke="#31536b"/>
+<text x="835" y="150" font-family="monospace" font-size="12" fill="#27d3c2">~ $ network status</text>
+<text x="835" y="171" font-family="monospace" font-size="13" fill="#d7e7f0">learning: active</text>
+<path d="M48 319 H1152" stroke="#274257"/>
+<text x="65" y="337" font-family="monospace" font-size="11" fill="#66849b">BUILD · UNDERSTAND · SECURE</text>
+</svg>
