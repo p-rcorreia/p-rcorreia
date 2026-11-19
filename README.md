@@ -2,13 +2,7 @@
   <img src="./assets/systems-lab-hero.svg" width="100%" alt="Paulo Correia — laboratório pessoal de infraestrutura, redes, cloud e segurança"/>
 </p>
 
-<p align="center">
-  <a href="#de-java-ao-laboratório"><img src="./assets/nav-trajectory.svg" height="39" alt="01 · Trajetória"/></a>
-  <a href="#o-que-já-coloquei-de-pé"><img src="./assets/nav-practice.svg" height="39" alt="02 · Na prática"/></a>
-  <a href="#o-que-estou-investigando"><img src="./assets/nav-explore.svg" height="39" alt="03 · Em exploração"/></a>
-  <a href="#projetos-e-repositórios"><img src="./assets/nav-repos.svg" height="39" alt="04 · Repositórios"/></a>
-  <a href="#certificações"><img src="./assets/nav-certs.svg" height="39" alt="05 · Certificações"/></a>
-</p>
+<p align="center"><a href="#de-java-ao-laboratório"><img src="./assets/nav-trajectory.svg" height="34" alt="01 · Trajetória"/></a><a href="#o-que-já-coloquei-de-pé"><img src="./assets/nav-practice.svg" height="34" alt="02 · Na prática"/></a><a href="#o-que-estou-investigando"><img src="./assets/nav-explore.svg" height="34" alt="03 · Em exploração"/></a><a href="#projetos-e-repositórios"><img src="./assets/nav-repos.svg" height="34" alt="04 · Repositórios"/></a><a href="#certificações"><img src="./assets/nav-certs.svg" height="34" alt="05 · Certificações"/></a></p>
 
 ---
 
