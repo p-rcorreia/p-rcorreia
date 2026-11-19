@@ -46,19 +46,22 @@ Atualmente aprofundo meus estudos em **cibersegurança, redes e Linux** para com
 
 ## Certificações
 
-<p align="center"><b>Google Cloud · Google Workspace · AWS</b></p>
-<table>
-<tr>
-<td align="center" width="25%"><img src="./assets/certifications/professional-google-workspace-administrator.png" width="88" alt="Professional Google Workspace Administrator badge"/><br/><sub><b>Professional Google Workspace Administrator</b></sub></td>
-<td align="center" width="25%"><img src="./assets/certifications/cloud-digital-leader-certification.png" width="88" alt="Google Cloud Digital Leader badge"/><br/><sub><b>Cloud Digital Leader</b></sub></td>
-<td align="center" width="25%"><img src="./assets/certifications/generative-ai-leader-certification.png" width="88" alt="Google Cloud Generative AI Leader badge"/><br/><sub><b>Generative AI Leader</b></sub></td>
-<td align="center" width="25%"><img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="88" alt="AWS Certified Cloud Practitioner badge"/><br/><sub><b>AWS Cloud Practitioner</b></sub></td>
-</tr>
-</table>
+<p align="center"><b>7 certificações · Google Cloud · Google Workspace · AWS</b></p>
 
-<p align="center">
-  <img src="./assets/recent-certifications.svg" width="100%" alt="Additional certifications: Professional Cloud Architect, Associate Cloud Engineer, Associate Google Workspace Administrator" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="./assets/certifications/professional-cloud-architect.png" width="94" alt="Professional Cloud Architect badge"/><br/><sub><b>Professional Cloud Architect</b></sub></td>
+    <td align="center" width="25%"><img src="./assets/certifications/associate-cloud-engineer.png" width="94" alt="Associate Cloud Engineer badge"/><br/><sub><b>Associate Cloud Engineer</b></sub></td>
+    <td align="center" width="25%"><img src="./assets/certifications/cloud-digital-leader-certification.png" width="94" alt="Cloud Digital Leader badge"/><br/><sub><b>Cloud Digital Leader</b></sub></td>
+    <td align="center" width="25%"><img src="./assets/certifications/generative-ai-leader-certification.png" width="94" alt="Generative AI Leader badge"/><br/><sub><b>Generative AI Leader</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/certifications/professional-google-workspace-administrator.png" width="94" alt="Professional Google Workspace Administrator badge"/><br/><sub><b>Professional Google Workspace Administrator</b></sub></td>
+    <td align="center"><img src="./assets/certifications/associate-google-workspace-administrator.png" width="94" alt="Associate Google Workspace Administrator badge"/><br/><sub><b>Associate Google Workspace Administrator</b></sub></td>
+    <td align="center"><img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="94" alt="AWS Certified Cloud Practitioner badge"/><br/><sub><b>AWS Certified Cloud Practitioner</b></sub></td>
+    <td align="center"><sub>Certificações verificáveis no meu perfil profissional.</sub></td>
+  </tr>
+</table>
 
 **Formação complementar:** Google Cybersecurity Professional Certificate (programa de cursos) e Cisco Networking Basics.
 
