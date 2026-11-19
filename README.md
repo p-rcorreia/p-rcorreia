@@ -59,7 +59,7 @@ Atualmente aprofundo meus estudos em **cibersegurança, redes e Linux** para com
     <td align="center"><img src="./assets/certifications/professional-google-workspace-administrator.png" width="94" alt="Professional Google Workspace Administrator badge"/><br/><sub><b>Professional Google Workspace Administrator</b></sub></td>
     <td align="center"><img src="./assets/certifications/associate-google-workspace-administrator.png" width="94" alt="Associate Google Workspace Administrator badge"/><br/><sub><b>Associate Google Workspace Administrator</b></sub></td>
     <td align="center"><img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="94" alt="AWS Certified Cloud Practitioner badge"/><br/><sub><b>AWS Certified Cloud Practitioner</b></sub></td>
-    <td align="center"><sub>Certificações verificáveis no meu perfil profissional.</sub></td>
+    <td align="center"><a href="https://www.credly.com/users/paulo-ricardo-correia"><b>Verificar minhas certificações ↗</b></a><br/><sub>Badges e credenciais no Credly</sub></td>
   </tr>
 </table>
 
