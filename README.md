@@ -1,48 +1,81 @@
 <p align="center">
-  <img src="./assets/cloud-security-header.svg" width="100%" alt="Paulo Correia — Cloud, Infrastructure and Security; network-inspired dark blue graphic" />
+  <img src="./assets/systems-lab-hero.svg" width="100%" alt="Paulo Correia — The Systems Lab, painel terminal de Cloud, Infraestrutura e Segurança"/>
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &nbsp;·&nbsp;
-  <a href="#foco-atual">Foco atual</a> &nbsp;·&nbsp;
-  <a href="#projetos-e-estudos">Projetos</a> &nbsp;·&nbsp;
-  <a href="#certificações">Certificações</a> &nbsp;·&nbsp;
-  <a href="#contato">Contato</a>
+  <a href="#sobre">SOBRE</a> &nbsp; / &nbsp;
+  <a href="#lab-status">LAB STATUS</a> &nbsp; / &nbsp;
+  <a href="#experiência">EXPERIÊNCIA</a> &nbsp; / &nbsp;
+  <a href="#projetos--estudos">PROJETOS</a> &nbsp; / &nbsp;
+  <a href="#certificações">BADGES</a>
 </p>
+
+---
 
 ## Sobre
 
-Atuo como **Cloud & Infrastructure Analyst** na WH1 Cloud, trabalhando com ambientes corporativos, administração de serviços, troubleshooting, integrações, automações e soluções de IA.
+Não quero apenas saber **qual comando executar**. Quero entender o que acontece **antes, durante e depois** dele.
 
-Atualmente aprofundo meus estudos em **cibersegurança, redes e Linux** para compreender melhor como sistemas, identidades, protocolos e serviços se conectam — da infraestrutura à aplicação. Tenho uma base em **Java, Spring Boot, APIs e bancos de dados**, que continua sendo parte da minha formação.
+Sou **Cloud & Infrastructure Analyst na WH1 Cloud**, com atuação em ambientes corporativos, Google Workspace, troubleshooting, automação, integrações e soluções de inteligência artificial. Fora da rotina profissional, estudo **redes, Linux e cibersegurança**, conectando conceitos com laboratórios práticos.
 
-> Mais do que operar ferramentas, quero entender por que cada tecnologia existe, que problema resolve e como suas decisões impactam o ambiente.
+Minha base em **Java, Spring Boot, APIs e bancos de dados** continua presente — especialmente para entender a infraestrutura também pelo ponto de vista das aplicações.
 
-## Foco atual
+> **A curiosidade é o ponto de partida. O laboratório é onde o conhecimento ganha forma.**
+
+## Lab status
 
 <table>
-<tr><td width="50%"><b>☁️ Cloud &amp; Architecture</b><br/>Google Cloud, AWS, IAM, DNS, storage e arquitetura</td><td width="50%"><b>🛡️ Cybersecurity &amp; Networking</b><br/>Protocolos, Linux, análise de tráfego, controle de acesso e laboratórios isolados</td></tr>
-<tr><td><b>⚙️ Infrastructure &amp; Automation</b><br/>Servidores, HTTPS/TLS, CI/CD, troubleshooting e deploy</td><td><b>💻 Software Engineering</b><br/>Java, Spring Boot, APIs e bancos de dados como base complementar</td></tr>
+<tr>
+<td width="50%" valign="top">
+<b>01 · CLOUD / ARCHITECTURE</b><br/>
+<sub>Google Cloud, AWS, IAM, DNS, storage, decisões de arquitetura e disponibilidade.</sub>
+</td>
+<td width="50%" valign="top">
+<b>02 · NETWORK / SECURITY</b><br/>
+<sub>TCP/IP, switching, endereçamento, análise de protocolos, controle de acesso e fundamentos de segurança.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>03 · SYSTEMS / AUTOMATION</b><br/>
+<sub>Linux, servidores web, TLS, troubleshooting, GitHub Actions e automação de deploy.</sub>
+</td>
+<td valign="top">
+<b>04 · SOFTWARE / FOUNDATIONS</b><br/>
+<sub>Java, Spring Boot, APIs, SQL e design de software — uma base que complementa infraestrutura.</sub>
+</td>
+</tr>
 </table>
+
+```text
+$ ./learning-loop
+  [01] entender o conceito
+  [02] reproduzir no laboratório
+  [03] investigar o que falhou
+  [04] documentar a descoberta
+  status: in progress
+```
 
 ## Experiência
 
-**Cloud & Infrastructure Analyst — WH1 Cloud** · desde agosto de 2024
+**Cloud & Infrastructure Analyst · WH1 Cloud**  
+*Desde agosto de 2024*
 
-- Implantação e administração de ambientes Google Workspace e serviços de nuvem.
-- Troubleshooting, suporte técnico e integração de soluções empresariais.
-- Automação e apoio técnico ao desenvolvimento, à avaliação e ao aprimoramento de agentes de IA generativa.
+- Administração e implantação de ambientes corporativos de Google Workspace e serviços de nuvem.
+- Investigação de incidentes, troubleshooting e suporte técnico.
+- Apoio a automações, integrações e avaliação e aprimoramento de soluções de IA generativa.
 
-*Projetos, dados e detalhes de clientes não são expostos por confidencialidade.*
+<sub>Projetos e informações de clientes são preservados por confidencialidade.</sub>
 
-## Projetos e estudos
+## Projetos & estudos
 
-| Repositório | O que realmente representa |
-| --- | --- |
-| [Java Backend Developer Roadmap 2026](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026) | Aplicação desenvolvida em Vue/TypeScript e Docker para organizar estudos; não implica domínio dos 126 tópicos catalogados |
-| [Fundamentos Java](https://github.com/p-rcorreia/fundamentos-java) | Exercícios e material de estudo, com diferentes níveis de conclusão por módulo |
-| [Software Design Studies](https://github.com/p-rcorreia/software-design-studies) | Registros e estrutura de estudos anteriores em arquitetura de software; não é uma trilha concluída |
-| Cloud Levels | Laboratórios de Cloud e infraestrutura; parte da documentação ainda é privada |
+<table>
+<tr><th>Repositório</th><th>O que você encontra</th></tr>
+<tr><td><a href="https://github.com/p-rcorreia/java-backend-developer-roadmap-2026"><b>Java Roadmap App</b></a></td><td>Aplicação em Vue/TypeScript e Docker para organização de estudos. O catálogo de tópicos não representa conclusão de toda a trilha.</td></tr>
+<tr><td><a href="https://github.com/p-rcorreia/fundamentos-java"><b>Fundamentos Java</b></a></td><td>Exercícios e registros de aprendizado em programação, com conteúdos em diferentes estágios.</td></tr>
+<tr><td><a href="https://github.com/p-rcorreia/software-design-studies"><b>Software Design Studies</b></a></td><td>Registros e estrutura dos estudos de arquitetura de software, ainda não concluídos.</td></tr>
+<tr><td><b>Cloud Levels</b></td><td>Laboratórios pessoais de infraestrutura e Cloud, com documentação parcialmente privada.</td></tr>
+</table>
 
 ## Certificações
 
@@ -67,10 +100,13 @@ Atualmente aprofundo meus estudos em **cibersegurança, redes e Linux** para com
 
 **Graduação:** Bacharelado em Ciência da Computação — Cruzeiro do Sul Virtual, em andamento.
 
-## Como estudo
-
-**Conceito → prática → evidência → aprendizado.** Meus repositórios registram etapas distintas dessa trajetória. Não confundo um roadmap com experiência concluída, e não publico dados de ambientes de clientes.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/paulo-ricardo-correia-533b35244/) · [GitHub](https://github.com/p-rcorreia) · [E-mail](mailto:paulojavase@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/paulo-ricardo-correia-533b35244/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.credly.com/users/paulo-ricardo-correia">Credly</a> &nbsp;·&nbsp;
+<a href="mailto:paulojavase@gmail.com">E-mail</a>
+</p>
+
+<p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>
