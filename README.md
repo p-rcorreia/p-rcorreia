@@ -84,28 +84,26 @@ Atuação com ambientes corporativos, Google Workspace, suporte avançado, admin
 
 ## Certificações
 
-<p align="center"><b>7 certificações · Google Cloud · Google Workspace · AWS</b></p>
+<p align="center"><sub>GOOGLE CLOUD &nbsp;·&nbsp; GOOGLE WORKSPACE &nbsp;·&nbsp; AWS</sub></p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><img src="./assets/certifications/professional-cloud-architect.png" width="94" alt="Professional Cloud Architect badge"/><br/><sub><b>Professional Cloud Architect</b></sub></td>
-    <td align="center" width="25%"><img src="./assets/certifications/associate-cloud-engineer.png" width="94" alt="Associate Cloud Engineer badge"/><br/><sub><b>Associate Cloud Engineer</b></sub></td>
-    <td align="center" width="25%"><img src="./assets/certifications/cloud-digital-leader-certification.png" width="94" alt="Cloud Digital Leader badge"/><br/><sub><b>Cloud Digital Leader</b></sub></td>
-    <td align="center" width="25%"><img src="./assets/certifications/generative-ai-leader-certification.png" width="94" alt="Generative AI Leader badge"/><br/><sub><b>Generative AI Leader</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/certifications/professional-google-workspace-administrator.png" width="94" alt="Professional Google Workspace Administrator badge"/><br/><sub><b>Professional Google Workspace Administrator</b></sub></td>
-    <td align="center"><img src="./assets/certifications/associate-google-workspace-administrator.png" width="94" alt="Associate Google Workspace Administrator badge"/><br/><sub><b>Associate Google Workspace Administrator</b></sub></td>
-    <td align="center"><img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="94" alt="AWS Certified Cloud Practitioner badge"/><br/><sub><b>AWS Certified Cloud Practitioner</b></sub></td>
-    <td align="center"><a href="https://www.credly.com/users/paulo-ricardo-correia"><b>Verificar minhas certificações ↗</b></a><br/><sub>Badges e credenciais no Credly</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Professional Cloud Architect"><img src="./assets/certifications/professional-cloud-architect.png" width="112" alt="Badge Professional Cloud Architect"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Associate Cloud Engineer"><img src="./assets/certifications/associate-cloud-engineer.png" width="112" alt="Badge Associate Cloud Engineer"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Cloud Digital Leader"><img src="./assets/certifications/cloud-digital-leader-certification.png" width="112" alt="Badge Cloud Digital Leader"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Generative AI Leader"><img src="./assets/certifications/generative-ai-leader-certification.png" width="112" alt="Badge Generative AI Leader"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Professional Google Workspace Administrator"><img src="./assets/certifications/professional-google-workspace-administrator.png" width="112" alt="Badge Professional Google Workspace Administrator"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="Associate Google Workspace Administrator"><img src="./assets/certifications/associate-google-workspace-administrator.png" width="112" alt="Badge Associate Google Workspace Administrator"/></a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/paulo-ricardo-correia" title="AWS Certified Cloud Practitioner"><img src="./assets/certifications/aws-certified-cloud-practitioner.png" width="112" alt="Badge AWS Certified Cloud Practitioner"/></a>
+</p>
+
+<p align="center"><a href="https://www.credly.com/users/paulo-ricardo-correia"><b>↗ Ver credenciais no Credly</b></a></p>
 
 **Formação complementar:** Google Cybersecurity Professional Certificate (programa de cursos) e Cisco Networking Basics.
 
 **Graduação:** Bacharelado em Ciência da Computação — Cruzeiro do Sul Virtual, em andamento.
-
-
 
 ## Contato
 
