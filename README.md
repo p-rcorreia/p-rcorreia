@@ -1,81 +1,74 @@
 <p align="center">
-  <img src="./assets/systems-lab-hero.svg" width="100%" alt="Paulo Correia — The Systems Lab, painel terminal de Cloud, Infraestrutura e Segurança"/>
+  <img src="./assets/systems-lab-hero.svg" width="100%" alt="Paulo Correia — laboratório pessoal de infraestrutura, redes, cloud e segurança"/>
 </p>
 
 <p align="center">
-  <a href="#sobre">SOBRE</a> &nbsp; / &nbsp;
-  <a href="#lab-status">LAB STATUS</a> &nbsp; / &nbsp;
-  <a href="#experiência">EXPERIÊNCIA</a> &nbsp; / &nbsp;
-  <a href="#projetos--estudos">PROJETOS</a> &nbsp; / &nbsp;
-  <a href="#certificações">BADGES</a>
+  <a href="#de-java-ao-laboratório">TRAJETÓRIA</a> &nbsp; / &nbsp;
+  <a href="#o-que-já-coloquei-de-pé">NA PRÁTICA</a> &nbsp; / &nbsp;
+  <a href="#o-que-estou-investigando">EM EXPLORAÇÃO</a> &nbsp; / &nbsp;
+  <a href="#projetos-e-repositórios">REPOSITÓRIOS</a> &nbsp; / &nbsp;
+  <a href="#certificações">CERTIFICAÇÕES</a>
 </p>
 
 ---
 
-## Sobre
+## De Java ao laboratório
 
-Não quero apenas saber **qual comando executar**. Quero entender o que acontece **antes, durante e depois** dele.
+Comecei mergulhando em **Java, backend e arquitetura de software**. No caminho, a pergunta deixou de ser só *“como desenvolver isso?”* e virou **“o que precisa acontecer para isso funcionar de verdade — e de forma segura?”**
 
-Sou **Cloud & Infrastructure Analyst na WH1 Cloud**, com atuação em ambientes corporativos, Google Workspace, troubleshooting, automação, integrações e soluções de inteligência artificial. Fora da rotina profissional, estudo **redes, Linux e cibersegurança**, conectando conceitos com laboratórios práticos.
+Foi assim que fui cada vez mais fundo em **Cloud, Linux, redes, identidade, DNS, TLS, automação e segurança**. Hoje, quero enxergar o sistema inteiro: o pacote que sai da máquina, o serviço que recebe a requisição, as permissões envolvidas, a aplicação por trás e o que pode dar errado no caminho.
 
-Minha base em **Java, Spring Boot, APIs e bancos de dados** continua presente — especialmente para entender a infraestrutura também pelo ponto de vista das aplicações.
+**Não abandonei o código.** Java, Spring Boot, APIs e bancos de dados continuam fazendo parte da minha caixa de ferramentas. Só ampliei o mapa.
 
-> **A curiosidade é o ponto de partida. O laboratório é onde o conhecimento ganha forma.**
+## O que já coloquei de pé
 
-## Lab status
+Em vez de uma lista infinita de tecnologias, alguns exemplos concretos do que venho experimentando:
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<b>01 · CLOUD / ARCHITECTURE</b><br/>
-<sub>Google Cloud, AWS, IAM, DNS, storage, decisões de arquitetura e disponibilidade.</sub>
-</td>
-<td width="50%" valign="top">
-<b>02 · NETWORK / SECURITY</b><br/>
-<sub>TCP/IP, switching, endereçamento, análise de protocolos, controle de acesso e fundamentos de segurança.</sub>
-</td>
+<td width="50%" valign="top"><b>☁️ Publicação na AWS</b><br/><sub>Site estático com S3 + CloudFront, certificado ACM, DNS no Route 53 e domínio próprio — incluindo raiz e www.</sub></td>
+<td width="50%" valign="top"><b>⚙️ Infraestrutura e deploy</b><br/><sub>Práticas com Linux, servidores web, HTTPS, GitHub Actions e automação de publicação, testando o caminho do código até a entrega.</sub></td>
 </tr>
 <tr>
-<td valign="top">
-<b>03 · SYSTEMS / AUTOMATION</b><br/>
-<sub>Linux, servidores web, TLS, troubleshooting, GitHub Actions e automação de deploy.</sub>
-</td>
-<td valign="top">
-<b>04 · SOFTWARE / FOUNDATIONS</b><br/>
-<sub>Java, Spring Boot, APIs, SQL e design de software — uma base que complementa infraestrutura.</sub>
-</td>
+<td valign="top"><b>🧠 IA aplicada</b><br/><sub>Experiência na construção, avaliação e melhoria de agentes corporativos de IA generativa, analisando respostas, instruções e integrações. Sem divulgar projetos de clientes.</sub></td>
+<td valign="top"><b>💻 Software e ferramentas</b><br/><sub>Projetos com Java, APIs, banco de dados e uma aplicação em Vue/TypeScript + Docker para acompanhar meus estudos.</sub></td>
 </tr>
 </table>
+
+## O que estou investigando
+
+**Agora a curiosidade está nas camadas que sustentam tudo isso:** redes e cibersegurança.
+
+- **Networking:** TCP/IP, ARP, MAC, ICMP, TCP, HTTP, switching e observação do tráfego no Cisco Packet Tracer.
+- **Sistemas e segurança:** Linux, permissões, serviços, identidade, superfície de ataque e análise de conexões.
+- **Cloud e arquitetura:** decisões de arquitetura em Google Cloud e AWS, IAM, redes, armazenamento, logging e disponibilidade.
+- **Próximas explorações:** aprofundar laboratórios de segurança em ambientes isolados, containers e Kubernetes.
+
+Não confundo **estudar um assunto** com **dominar o assunto**. Mas também não quero que meu perfil seja só uma lista de coisas que ainda pretendo fazer.
 
 ```text
-$ ./learning-loop
-  [01] entender o conceito
-  [02] reproduzir no laboratório
-  [03] investigar o que falhou
-  [04] documentar a descoberta
-  status: in progress
+paulo@lab:~$ trace learning-path
+java/backend -> cloud/infra -> networks -> cybersecurity
+                 |                 |
+                 +-- build labs ---+-- investigate failures
 ```
 
-## Experiência
+## Projetos e repositórios
 
-**Cloud & Infrastructure Analyst · WH1 Cloud**  
-*Desde agosto de 2024*
+| Projeto | O que há de concreto |
+| --- | --- |
+| **Cloud Levels** | Experimentos de infraestrutura em Cloud; parte do código e da documentação permanece privada. |
+| [Java Backend Roadmap App](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026) | Ferramenta construída com Vue, TypeScript e Docker para organizar os estudos — não significa que todas as trilhas foram concluídas. |
+| [Fundamentos Java](https://github.com/p-rcorreia/fundamentos-java) | Exercícios, pequenos projetos e registros de programação. |
+| [Software Design Studies](https://github.com/p-rcorreia/software-design-studies) | Notas e estruturas de estudos anteriores em arquitetura de software, sem prometer conteúdo concluído. |
 
-- Administração e implantação de ambientes corporativos de Google Workspace e serviços de nuvem.
-- Investigação de incidentes, troubleshooting e suporte técnico.
-- Apoio a automações, integrações e avaliação e aprimoramento de soluções de IA generativa.
+## Experiência profissional
 
-<sub>Projetos e informações de clientes são preservados por confidencialidade.</sub>
+**WH1 Cloud · Cloud & Infrastructure Analyst** — desde agosto de 2024
 
-## Projetos & estudos
+Atuação com ambientes corporativos, Google Workspace, suporte avançado, administração de serviços, troubleshooting, automações, integrações e soluções de IA generativa. Essa experiência é parte da minha trajetória — **não o limite do que estudo e construo**.
 
-<table>
-<tr><th>Repositório</th><th>O que você encontra</th></tr>
-<tr><td><a href="https://github.com/p-rcorreia/java-backend-developer-roadmap-2026"><b>Java Roadmap App</b></a></td><td>Aplicação em Vue/TypeScript e Docker para organização de estudos. O catálogo de tópicos não representa conclusão de toda a trilha.</td></tr>
-<tr><td><a href="https://github.com/p-rcorreia/fundamentos-java"><b>Fundamentos Java</b></a></td><td>Exercícios e registros de aprendizado em programação, com conteúdos em diferentes estágios.</td></tr>
-<tr><td><a href="https://github.com/p-rcorreia/software-design-studies"><b>Software Design Studies</b></a></td><td>Registros e estrutura dos estudos de arquitetura de software, ainda não concluídos.</td></tr>
-<tr><td><b>Cloud Levels</b></td><td>Laboratórios pessoais de infraestrutura e Cloud, com documentação parcialmente privada.</td></tr>
-</table>
+<sub>Informações, ambientes e projetos de clientes são mantidos em sigilo.</sub>
 
 ## Certificações
 
@@ -101,6 +94,7 @@ $ ./learning-loop
 **Graduação:** Bacharelado em Ciência da Computação — Cruzeiro do Sul Virtual, em andamento.
 
 
+
 ## Contato
 
 <p align="center">
@@ -109,4 +103,4 @@ $ ./learning-loop
 <a href="mailto:paulojavase@gmail.com">E-mail</a>
 </p>
 
-<p align="center"><sub>Built with curiosity. Maintained with evidence.</sub></p>
+<p align="center"><sub>O próximo experimento sempre começa com uma pergunta.</sub></p>
