@@ -56,8 +56,8 @@ java/backend -> cloud/infra -> networks -> cybersecurity
 
 <sub>02 / CÓDIGO, EXPERIMENTOS E ANOTAÇÕES</sub>
 
-**Cloud Levels** · *laboratórios pessoais*  
-Experimentação de infraestrutura em Cloud. Parte do código e das evidências ainda está em repositórios privados.
+**[Cloud Levels — Diário de laboratórios](./labs/cloud-levels/README.md)** · *6 labs documentados a partir dos meus posts no LinkedIn*  
+Nginx, DNS, HTTPS/TLS, deploy com Git/SSH/rsync, GitHub Actions e arquitetura estática na AWS — cada experimento com problema, validações e aprendizados. O código e as evidências privadas permanecem separados.
 
 **[Java Backend Roadmap App](https://github.com/p-rcorreia/java-backend-developer-roadmap-2026)** · *aplicação funcional*  
 Um painel que construí com Vue, TypeScript e Docker para organizar estudos. O software existe; isso não significa que todos os tópicos do roadmap foram concluídos.
